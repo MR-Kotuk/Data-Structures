@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\bin\Debug\net5.0\List.exe
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\bin\Debug\net5.0\List.deps.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\bin\Debug\net5.0\List.runtimeconfig.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\bin\Debug\net5.0\List.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\bin\Debug\net5.0\List.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\bin\Debug\net5.0\ref\List.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\bin\Debug\net5.0\List.pdb
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\List.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\List.AssemblyInfo.cs
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\List.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\ref\List.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\List.pdb
+C:\Users\Taras Sliusar\source\repos\Data-Structures\List\List\obj\Debug\net5.0\List.genruntimeconfig.cache

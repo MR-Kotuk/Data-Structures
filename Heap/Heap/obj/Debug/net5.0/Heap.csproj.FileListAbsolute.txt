@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\bin\Debug\net5.0\Heap.exe
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\bin\Debug\net5.0\Heap.deps.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\bin\Debug\net5.0\Heap.runtimeconfig.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\bin\Debug\net5.0\Heap.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\bin\Debug\net5.0\Heap.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\bin\Debug\net5.0\ref\Heap.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\bin\Debug\net5.0\Heap.pdb
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\Heap.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\Heap.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\Heap.AssemblyInfo.cs
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\Heap.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\Heap.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\ref\Heap.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\Heap.pdb
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Heap\Heap\obj\Debug\net5.0\Heap.genruntimeconfig.cache

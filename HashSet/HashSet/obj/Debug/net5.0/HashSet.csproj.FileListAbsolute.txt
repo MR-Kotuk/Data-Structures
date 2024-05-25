@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\bin\Debug\net5.0\HashSet.exe
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\bin\Debug\net5.0\HashSet.deps.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\bin\Debug\net5.0\HashSet.runtimeconfig.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\bin\Debug\net5.0\HashSet.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\bin\Debug\net5.0\HashSet.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\bin\Debug\net5.0\ref\HashSet.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\bin\Debug\net5.0\HashSet.pdb
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\HashSet.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\HashSet.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\HashSet.AssemblyInfo.cs
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\HashSet.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\ref\HashSet.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\HashSet.pdb
+C:\Users\Taras Sliusar\source\repos\Data-Structures\HashSet\HashSet\obj\Debug\net5.0\HashSet.genruntimeconfig.cache

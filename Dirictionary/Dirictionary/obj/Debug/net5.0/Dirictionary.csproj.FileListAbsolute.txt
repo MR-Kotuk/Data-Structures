@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\bin\Debug\net5.0\Dirictionary.exe
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\bin\Debug\net5.0\Dirictionary.deps.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\bin\Debug\net5.0\Dirictionary.runtimeconfig.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\bin\Debug\net5.0\Dirictionary.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\bin\Debug\net5.0\Dirictionary.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\bin\Debug\net5.0\ref\Dirictionary.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\bin\Debug\net5.0\Dirictionary.pdb
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\Dirictionary.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\Dirictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\Dirictionary.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\Dirictionary.AssemblyInfo.cs
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\Dirictionary.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\Dirictionary.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\ref\Dirictionary.dll
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\Dirictionary.pdb
+C:\Users\Taras Sliusar\source\repos\Data-Structures\Dirictionary\Dirictionary\obj\Debug\net5.0\Dirictionary.genruntimeconfig.cache
