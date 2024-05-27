@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System;
 
-namespace Dirictionary
+namespace Dictionary
 {
     public class Program
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dirictionary\\Dirictionary\\Dirictionary.csproj": {}
+    "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dictionary\\Dictionary\\Dictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dirictionary\\Dirictionary\\Dirictionary.csproj": {
+    "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dictionary\\Dictionary\\Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dirictionary\\Dirictionary\\Dirictionary.csproj",
-        "projectName": "Dirictionary",
-        "projectPath": "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dirictionary\\Dirictionary\\Dirictionary.csproj",
+        "projectUniqueName": "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dictionary\\Dictionary\\Dictionary.csproj",
+        "projectName": "Dictionary",
+        "projectPath": "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dictionary\\Dictionary\\Dictionary.csproj",
         "packagesPath": "C:\\Users\\Taras Sliusar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dirictionary\\Dirictionary\\obj\\",
+        "outputPath": "C:\\Users\\Taras Sliusar\\source\\repos\\Data-Structures\\Dictionary\\Dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

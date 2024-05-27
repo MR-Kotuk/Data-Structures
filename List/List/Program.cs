@@ -25,13 +25,13 @@ namespace List
             int index = 1;
             Console.WriteLine($"Getting element from index({index}): {list[index]}");
 
-            Console.WriteLine($"Removing elemet from index ({index}): {list[index]}");
+            Console.WriteLine($"Removing element from index ({index}): {list[index]}");
             list.Remove(list[index]);
             ShowList(list);
 
             int newElement = 56;
             list[index] = newElement;
-            Console.WriteLine($"Switched elemnt from index ({index}): {list[index]}");
+            Console.WriteLine($"Switched element from index ({index}): {list[index]}");
             ShowList(list);
 
             Console.WriteLine("Removing all elements from list...");
